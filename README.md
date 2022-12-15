@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and Unity
 - 🌱 I’m currently learning Nothing I Am Just Focusing On My Education
 - 📫 How to reach me:My Email is aashir.gr667818@gmail.com
-- Linked In:Syed Aashir 
+- Linked In:Syed Aashir:https://www.linkedin.com/in/syed-aashir-65127924b/
 - 🙏🏻 Follow Me On GitHub, Fiver And On LinkedIn
 
 <!---
